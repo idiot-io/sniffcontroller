@@ -1,8 +1,8 @@
 git@github.com:shenkarSElab/sniffcontroller.git
 
-wired setup, they have some kind of sniff controller. 
+weird setup, they have some kind of sniff controller. 
 
-https://i.imgur.com/Fkmank8.png
+![](https://i.imgur.com/Fkmank8.png)
 
 10.1109/TNSRE.2016.2632754
 
